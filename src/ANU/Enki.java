@@ -10,6 +10,7 @@ public class Enki {
         System.out.println("__________________________");
 //        ******************************************
         System.out.println("Burasi yeni Branch yeri");
+        System.out.println("SON KOD");
     }
 
 }
