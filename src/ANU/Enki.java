@@ -6,6 +6,7 @@ public class Enki {
         System.out.println("ENKI NE YAPTI");
         System.out.println("ENU ENKININ KARDESI");
         System.out.println("KRAL ANU IKISININ BABASI");
+        System.out.println("BABA dedi");
     }
 
 }
